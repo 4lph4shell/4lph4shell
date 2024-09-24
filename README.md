@@ -28,4 +28,4 @@ For knowledge and science and generations.
 <br />
 
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=4lph4shell&theme=blue-green_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=4lph4shell&show_icons0true&theme=blue-green)
