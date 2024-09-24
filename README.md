@@ -7,7 +7,7 @@ We are memories for an alpha generation of Iranian essence.
 Iran is for our generation because we, along with you, are the generation of Iranian alphas .
 
 For knowledge and science and generations.
-You can subscribe ower youtube channel "[4lph4co][youtube]"
+
 
 ---
 ## 🧰 Languages and Tools
