@@ -9,7 +9,7 @@
 👁️We are memories for an alpha generation of Iranian essence.<br><br>👁️Iran is for our generation because we, along with you, are the generation of Iranian alphas .<br><br>👁️For knowledge and science and generations.
 
 ## 🌐 Socials:
-[![website](https://img.shields.io/badge/website-4EA94B.svg?&logo=web&logoColor=white)](https://www.4lph4.ir) <br/>
+[![website](https://img.shields.io/badge/🌐website🐺-4EA94B.svg?&logo=web&logoColor=white)](https://www.4lph4.ir) <br/>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/4lph4.co) <br/>
 [![telegram](https://img.shields.io/badge/Telegram-2CA5E0.svg?&logo=telegram&logoColor=white)](https://t.me/ALPH4Co) 
 [![telegram](https://img.shields.io/badge/Telegram-Topic-2CA5E0.svg?&logo=telegram&logoColor=white)](https://t.me/ALPH4ir) <br/>
