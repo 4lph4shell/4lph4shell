@@ -10,6 +10,7 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/4lph4.co) 
+[![telegram](https://github.com/badges/shields/assets/10694593/c5c5acc3-f434-4a8d-a834-6d94a7ffb45a&logoColor=white)](https://t.me/ALPH4Co) 
 
 ---
 ## 🧰 Languages and Tools
