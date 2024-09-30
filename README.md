@@ -1,5 +1,5 @@
 
-<img src="https://github.com/4lph4shell/4lph4shell/blob/master/snow-x-logo-reveal_1.gif.gif?raw=true" height="350" style="max-width: 100%; display: center;" data-target="animated-image.originalImage">
+<img src="https://github.com/4lph4shell/4lph4shell/blob/master/snow-x-logo-reveal_1.gif%20(1).gif?raw=true" height="350" style="max-width: 100%; display: center;" data-target="animated-image.originalImage">
 
 # 💫 About Us:
 ## 🐺4lph4shell
