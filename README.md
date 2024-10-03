@@ -117,7 +117,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ## top
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=4lph4shell)](https://github.com/4lph4shell/DDosSlayer-Alpha-Edition)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=4lph4shell&show_icons0true&theme=blue-green)](https://github.com/4lph4shell/DDosSlayer-Alpha-Edition)
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=4lph4shell&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
