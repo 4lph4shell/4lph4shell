@@ -122,3 +122,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=4lph4shell&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## top
+ <a href="https://github.com/4lph4shell/DDosSlayer-Alpha-Edition"><img title="DDosSlayer-Alpha-Edition" src="https://github-readme-stats.vercel.app/api/pin/?username=4lph4shell&repo=DDosSlayer-Alpha-Edition&theme=great-gatsby"></a>
