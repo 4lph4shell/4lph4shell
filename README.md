@@ -120,8 +120,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=4lph4shell&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-![Alt](https://repobeats.axiom.co/api/embed/18ec57dcd76b54ed397de6cd74d9c05d679b9e6e.svg "Repobeats analytics image")
+---![Alt](https://repobeats.axiom.co/api/embed/c2ee3e82ca01d7b9785edd655e7cbdcf34518e78.svg "Repobeats analytics image")
 [![](https://visitcount.itsvg.in/api?id=4lph4shell&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <h2 align="center">
