@@ -127,4 +127,15 @@
 <h2 align="center">
   <a href="https://www.4lph4.ir/" target="_blank">ALPHA</a>
 </h2>
-
+<h2 align="center">Follow us:</h2>
+<h5 >
+  <code>
+    <a href="https://instagram.com/4lph4.co" title="Instagram Profile"><img height="22" width="22" src="https://github.com/Dheerajmadhukar/Dheerajmadhukar/blob/main/img/instagram.svg" /> Instagram</a>
+  </code>
+    <code>
+    <a href="https://www.youtube.com/@4lph4co"><img alt="YouTube" title="YouTube" height="22" width="22" src="https://github.com/Dheerajmadhukar/Dheerajmadhukar/blob/main/img/youtube.svg" /> YouTube</a>
+  </code>
+    <code>
+    <a href="https://t.me/ALPH4Co"><img alt="telegram" title="telegram" height="22" width="22" src="https://github.com/Dheerajmadhukar/Dheerajmadhukar/blob/main/img/telegram.svg" /> Telegram</a>
+  </code>
+  </h5>
