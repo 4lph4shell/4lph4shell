@@ -124,4 +124,7 @@
 ![Alt](https://repobeats.axiom.co/api/embed/18ec57dcd76b54ed397de6cd74d9c05d679b9e6e.svg "Repobeats analytics image")
 [![](https://visitcount.itsvg.in/api?id=4lph4shell&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<h2 align="center">
+  <a href="https://www.4lph4.ir/" target="_blank">Alpha</a>
+</h2>
 
