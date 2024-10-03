@@ -41,6 +41,7 @@
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" />
   </kbd>
+    <br>
   <kbd>
     <kbd>Library/FrameWorks</kbd>
     <br>
@@ -50,7 +51,6 @@
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
   </kbd>
-  <br>
   <kbd>
     <kbd>Apps</kbd>
     <br>
@@ -59,6 +59,7 @@
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
   </kbd>
+    <br>
   <kbd>
     <kbd>Terminal Scripts</kbd>
     <br>
@@ -75,6 +76,7 @@
     <img width="50px" src="https://github.com/termux/termux-app/raw/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" />
     <img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/512px-Repl.it_logo.svg.png">
   </kbd>
+    <br>
   <kbd>
     <kbd>OS</kbd>
     <br>
@@ -83,7 +85,6 @@
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
   </kbd>
-    <br>
     <kbd>
     <kbd>ETC...</kbd>
     <br>
