@@ -125,6 +125,6 @@
 [![](https://visitcount.itsvg.in/api?id=4lph4shell&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <h2 align="center">
-  <a href="https://www.4lph4.ir/" target="_blank">Alpha</a>
+  <a href="https://www.4lph4.ir/" target="_blank">ALPHA</a>
 </h2>
 
