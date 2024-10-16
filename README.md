@@ -132,19 +132,13 @@
 </h2>
 
 # Team :
-<p style="display: inline-block;" align="center">
 
   <kbd>
+      <kbd>sobhan-azimzadeh</kbd>
 
 <img style="height:auto;" alt="" src="https://avatars.githubusercontent.com/u/74512785?v=4" width="260" height="260" class="avatar avatar-user width-full border color-bg-default">
 
 <div class="vcard-names-container float-left js-profile-editable-names col-12 py-3 js-sticky js-user-profile-sticky-fields" data-original-top="0px" style="position: sticky;">
-      <h1 class="vcard-names ">
-        <span class="p-nickname vcard-username d-block" itemprop="additionalName">
-          sobhan-azimzadeh
-         </span>
-      </h1>
-    </div>
-    </kbd>
-    </p>
+</kbd>
+    
 
