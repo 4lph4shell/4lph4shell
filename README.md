@@ -136,9 +136,17 @@
 
 <img style="height:auto;" alt="" src="https://avatars.githubusercontent.com/u/74512785?v=4" width="260" height="260" class="avatar avatar-user width-full border color-bg-default">
 
-<img src="https://avatars.githubusercontent.com/u/74512785?v=4" alt="User  Avatar" style="width: 260px; height: 260px; border-radius: 50%; object-fit: cover;">
+<div class="vcard-names-container float-left js-profile-editable-names col-12 py-3 js-sticky js-user-profile-sticky-fields" data-original-top="0px" style="position: sticky;">
+      <h1 class="vcard-names ">
+        <span class="p-name vcard-fullname d-block overflow-hidden" itemprop="name">
+          sobhan
+        </span>
+        <span class="p-nickname vcard-username d-block" itemprop="additionalName">
+          sobhan-azimzadeh
 
-![User  Avatar](https://avatars.githubusercontent.com/u/74512785?v=4#gh-light-mode-only)
-![User  Avatar](https://avatars.githubusercontent.com/u/74512785?v=4#gh-dark-mode-only)
-
+          
+  <span itemprop="pronouns">he/him</span>
+        </span>
+      </h1>
+    </div>
 
