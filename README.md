@@ -1,4 +1,4 @@
-<p align="center">
+![image](https://github.com/user-attachments/assets/2197ea4c-c8be-49ec-91ea-35d2003d4f14)<p align="center">
 <img src="https://github.com/4lph4shell/4lph4shell/blob/master/snow-x-logo-reveal_1.gif%20(1).gif?raw=true" height="350" style="max-width: 100%; display: center;" data-target="animated-image.originalImage">
 </p>
 
@@ -141,6 +141,13 @@
     <br>
     <br>
   <img style="height:auto;" alt="" src="https://avatars.githubusercontent.com/u/74512785?v=4" width="260" height="260" class="avatar avatar-user width-full border color-bg-default">
+
+  </kbd>
+    <kbd>
+    <kbd>amir-zahiri</kbd>
+    <br>
+    <br>
+  <img style="height:auto;" alt="" src="https://github.com/4lph4shell/4lph4shell/blob/master/photo_2024-09-20_23-57-02.jpg" width="260" height="260" class="avatar avatar-user width-full border color-bg-default">
 
   </kbd>
  </p>
