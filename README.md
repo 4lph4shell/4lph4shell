@@ -21,6 +21,28 @@
 <img src="https://yt3.googleusercontent.com/6_gl3yD2a7kDSTrqua1O93qNxukmlfZm0fU7Lt3C5DmwF50bHD5V_u_1CfTsbjNn6Xdjqqjmc9c=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" >
 
 
+# Team :
+
+
+<p style="display: inline-block;" align="center">
+
+  <kbd>
+
+  <img style="height:auto;" alt="" src="https://avatars.githubusercontent.com/u/74512785?v=4" width="260" height="260" class="avatar avatar-user width-full border color-bg-default">
+    <br>
+    <br>
+      <kbd>sobhan-azimzadeh</kbd>
+
+  </kbd>
+    <kbd>
+
+  <img style="height:auto;" alt="" src="https://github.com/4lph4shell/4lph4shell/blob/master/photo_2024-09-20_23-57-02.jpg" width="260" height="260" class="avatar avatar-user width-full border color-bg-default">
+      <br>
+    <br>
+    <kbd>amir-zahiri</kbd>
+
+  </kbd>
+ </p>
 
 
 
@@ -131,25 +153,3 @@
   <a href="https://www.4lph4.ir/" target="_blank">ALPHA</a>
 </h2>
 
-# Team :
-
-
-<p style="display: inline-block;" align="center">
-
-  <kbd>
-
-  <img style="height:auto;" alt="" src="https://avatars.githubusercontent.com/u/74512785?v=4" width="260" height="260" class="avatar avatar-user width-full border color-bg-default">
-    <br>
-    <br>
-      <kbd>sobhan-azimzadeh</kbd>
-
-  </kbd>
-    <kbd>
-
-  <img style="height:auto;" alt="" src="https://github.com/4lph4shell/4lph4shell/blob/master/photo_2024-09-20_23-57-02.jpg" width="260" height="260" class="avatar avatar-user width-full border color-bg-default">
-      <br>
-    <br>
-    <kbd>amir-zahiri</kbd>
-
-  </kbd>
- </p>
