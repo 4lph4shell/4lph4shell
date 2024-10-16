@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2197ea4c-c8be-49ec-91ea-35d2003d4f14)<p align="center">
+<p align="center">
 <img src="https://github.com/4lph4shell/4lph4shell/blob/master/snow-x-logo-reveal_1.gif%20(1).gif?raw=true" height="350" style="max-width: 100%; display: center;" data-target="animated-image.originalImage">
 </p>
 
