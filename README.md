@@ -36,12 +36,12 @@
   </kbd>
       </a>
     <kbd>
-  <a href="https://www.4lph4.ir/" target="_blank">
+  <a href="https://github.com/A747Ir" target="_blank">
   <img style="height:auto;" alt="" src="https://github.com/4lph4shell/4lph4shell/blob/master/photo_2024-09-20_23-57-02.jpg" width="260" height="260" class="avatar avatar-user width-full border color-bg-default">
     </a>
       <br>
     <br>
-    <kbd>amir-zahiri</kbd>
+    <kbd>amir-Khany</kbd>
 
   </kbd>
  </p>
