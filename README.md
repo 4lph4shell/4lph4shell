@@ -138,15 +138,9 @@
 
 <div class="vcard-names-container float-left js-profile-editable-names col-12 py-3 js-sticky js-user-profile-sticky-fields" data-original-top="0px" style="position: sticky;">
       <h1 class="vcard-names ">
-        <span class="p-name vcard-fullname d-block overflow-hidden" itemprop="name">
-          sobhan
-        </span>
         <span class="p-nickname vcard-username d-block" itemprop="additionalName">
           sobhan-azimzadeh
-
-          
-  <span itemprop="pronouns">he/him</span>
-        </span>
+         </span>
       </h1>
     </div>
 
