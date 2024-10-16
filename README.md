@@ -184,4 +184,4 @@
 </html>
 
 
-   <img width="50px" height= "150px" border-radius= "50%" src="https://avatars.githubusercontent.com/u/74512785?v=4" />
+<img style="height:auto;" alt="" src="https://avatars.githubusercontent.com/u/74512785?v=4" width="260" height="260" class="avatar avatar-user width-full border color-bg-default">
