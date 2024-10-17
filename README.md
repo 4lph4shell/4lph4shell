@@ -156,5 +156,3 @@
 </h2>
 
 
-https://github.com/users/4lph4shell/achievements/quickdraw
-
